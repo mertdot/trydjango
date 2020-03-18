@@ -8,9 +8,9 @@ We have to set up virtualenv because manage third party packages easily.to start
 $ virtualenv . # '.' points all files inside of folder
 ```
 
-To start virtualenv enter that project folder not root folder just folder that keeps all project files inside and type,
+To start virtualenv enter that main folder not root folder just folder that keeps all project files inside and type,
 ``` bash
-$
+$ source bin/activate
 ```
 
 # Create Project
@@ -52,3 +52,9 @@ $ python manage.py createsuperuser
 ``` bash
 $ pip freeze #Output installed packages in requirements format.
 ```
+
+## Addition
+
+'main folder' stands for folder that keep whole project files.
+
+'root folder' stands for folder that keeps that only project files and also not keeps manage.py.Mostly, '/src' folder. 
