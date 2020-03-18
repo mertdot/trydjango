@@ -1,6 +1,6 @@
 # trydjango
 
-#Entry
+# Entry
 
 We have to set up virtualenv because manage third party packages easily.to start virtualenv we can just type,
 
