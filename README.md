@@ -1,5 +1,6 @@
 # trydjango
 
+[Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 # Entry
 
 We have to set up virtualenv because manage third party packages easily.to start virtualenv we can just type,
@@ -55,6 +56,6 @@ $ pip freeze #Output installed packages in requirements format.
 
 ## Addition
 
-'main folder' stands for folder that keep whole project files.
+***main folder*** stands for folder that keep whole project files.
 
-'root folder' stands for folder that keeps that only project files and also not keeps manage.py.Mostly, '/src' folder. 
+***root folder'*** stands for folder that keeps that only project files and also not keeps manage.py.Mostly, '/src' folder. 
