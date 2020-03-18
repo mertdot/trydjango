@@ -58,4 +58,4 @@ $ pip freeze #Output installed packages in requirements format.
 
 ***main folder*** stands for folder that keep whole project files.
 
-***root folder'*** stands for folder that keeps that only project files and also not keeps ***manage.py****.Mostly, ***'/src'*** folder. 
+***root folder'*** stands for folder that keeps that only project files and also not keeps ***manage.py****.Mostly, ***root folder*** is ***'/src'*** folder. 
