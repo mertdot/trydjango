@@ -8,6 +8,10 @@ class ProductForm(forms.ModelForm):
         fields = [
             'title',
             'description',
-            'price',
-            'summary'   
+            'price'  
         ]
+
+class RawProductForm(forms.Form):
+    title       = forms.CharField()
+    description = forms.CharField()
+    price       = forms.DecimalField()   
